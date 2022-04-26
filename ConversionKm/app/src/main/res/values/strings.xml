@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConversionKm</string>
+    <string name="la_convertion_en_miles_nous_donne">La convertion en miles nous donne :</string>
+    <string name="truc">Truc</string>
+    <string name="convertir">Convertir</string>
+    <string name="imagetravel">ImageTravel</string>
+    <string name="donnez_un_nombre_de_kilom_tres_convertir">Donnez un nombre de kilomètres à convertir</string>
+    <string name="la_convertion_nous_donne" />
+</resources>
